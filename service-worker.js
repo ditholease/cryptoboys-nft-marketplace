@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cryptoboys-nft-marketplace/precache-manifest.42c6f9933871d2f96bf4f5a618096c6f.js"
+  "/cryptoboys-nft-marketplace/precache-manifest.9e03646d333b770e0fb3360b2511a8be.js"
 );
 
 workbox.clientsClaim();
